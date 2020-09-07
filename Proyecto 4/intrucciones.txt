@@ -1,0 +1,3 @@
+Se debe abrir el index.php, para registrar a algún estudiante se debe introducir lo siguiente:
+	usuario: ucb
+	contraseña: 123
